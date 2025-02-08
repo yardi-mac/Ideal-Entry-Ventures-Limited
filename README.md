@@ -107,7 +107,7 @@
 
 <section id="contact">
     <h2>Contact Us</h2>
-    <p>Email: info@armoredcables.com</p>
+    <p>Email: nwaezemacdennis@yahoo.com</p>
     <p>Phone: +1 (713) 235-0509</p>
     <p>Address: 2750 Holly Hall St. Houston, Tx</p>
 </section>
